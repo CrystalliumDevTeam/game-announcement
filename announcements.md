@@ -22,7 +22,7 @@ Implemented News Tab: All latest news will be displaced in-game in real-time.
 Changed all chart's CC (Chart Constant).  
 Changed the rating calculation method.  
 Updated the following charts:  
-- Sydosys - Divergence (BLS)  
+- Sydosys - Divergence (BLS)
 Added beat lines.  
 Added edges to void for better visibility.  
 Improved UI animation.  
