@@ -5,12 +5,12 @@
 
 This update includes various changes:
 
-<b>NEW CHART</b>
+#### NEW CHART
 ryhki - Freagarthach (CST-BLS)
 Altermis - Eclipse Nexus (BLS)
 
 
-<b>NEW FEATURE</b>
+#### NEW FEATURE
 Added Basic Tutorial.
 Added Livid Lycanthrope deck and moved "Before The Storm" to the deck.
 Implemented Multiplayer mode - play against players online by creating/joining a room! (Still under-development so things might not work all the time.)
@@ -18,7 +18,7 @@ Implemented title display in Leaderboard.
 Implemented News Tab: All latest news will be displaced in-game in real-time.
 
 
-<b>IMPROVEMENT</b>
+#### IMPROVEMENT
 Changed all chart's CC (Chart Constant).
 Changed the rating calculation method.
 Updated the following charts:
@@ -28,7 +28,7 @@ Added edges to void for better visibility.
 Improved UI animation.
 
 
-<b>BUG FIXES</b>
+#### BUG FIXES
 Songs having different initial scroll speed due to BPM are now fixed.
 Fixed Inventory UI is broken in a certain Resolution size.
 Fixed song suddenly ends when it starts.
