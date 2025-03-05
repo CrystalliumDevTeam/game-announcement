@@ -6,16 +6,16 @@
 This update includes various changes:
 
 #### NEW CHART
-ryhki - Freagarthach (CST-BLS)
-Altermis - Eclipse Nexus (BLS)
+ryhki - Freagarthach (CST-BLS)  
+Altermis - Eclipse Nexus (BLS)  
 
 
 #### NEW FEATURE
 Added Basic Tutorial.
-Added Livid Lycanthrope deck and moved "Before The Storm" to the deck.
-Implemented Multiplayer mode - play against players online by creating/joining a room! (Still under-development so things might not work all the time.)
-Implemented title display in Leaderboard.
-Implemented News Tab: All latest news will be displaced in-game in real-time.
+Added Livid Lycanthrope deck and moved "Before The Storm" to the deck.  
+Implemented Multiplayer mode - play against players online by creating/joining a room! (Still under-development so things might not work all the time.)  
+Implemented title display in Leaderboard.  
+Implemented News Tab: All latest news will be displaced in-game in real-time.  
 
 
 #### IMPROVEMENT
