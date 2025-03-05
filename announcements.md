@@ -21,8 +21,9 @@ Implemented News Tab: All latest news will be displaced in-game in real-time.
 #### IMPROVEMENT
 Changed all chart's CC (Chart Constant).  
 Changed the rating calculation method.  
-Updated the following charts:  
+Updated the following charts:
 - Sydosys - Divergence (BLS)
+
 Added beat lines.  
 Added edges to void for better visibility.  
 Improved UI animation.  
